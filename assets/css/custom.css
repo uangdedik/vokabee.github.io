@@ -1,0 +1,49 @@
+
+/*
+Use this file to write your custom styles
+*/
+
+.nav-brand img  {
+	margin-top: 0.4rem;
+}
+
+.logo-header {
+	text-align: center;
+	font-size:2em;
+}
+
+.nav-menu-centered  .btn {
+	text-align: left;
+}
+
+.nav-menu-centered  .btn  * {
+	font-size: 1.2rem !important
+}
+
+.nav-menu-centered  .btn i {
+  padding-right: 30px;
+  float: left;
+  line-height: 20px;
+
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Montserrat', sans-serif !important;
+	font-weight: bold;
+}
+
+p, span {
+	font-family: 'Poppins', sans-serif !important;
+}
+
+.customers-list {
+	align-content: center;
+	text-align: center;
+}
+
+.customers-list img {
+	max-width: 150px;
+	padding:10px 20px;
+	display:inline-block;
+}
